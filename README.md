@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![JAVA](https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=java&logocolor=white)
+
+
 <!--
 **kitseok/kitseok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
