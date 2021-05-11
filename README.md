@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 ![JAVA](https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=java&logocolor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logocolor=white)
-![JAVA](https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=java&logocolor=white)
-![JAVA](https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=java&logocolor=white)
+
 
 
 <!--
