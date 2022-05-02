@@ -1,7 +1,7 @@
 
-### READ KITSEOK(GITSEOK)
+### :newspaper:READ KITSEOK(GITSEOK)
 
-#### BLOG📫 : [TISTORY] https://gitseok.tistory.com/
+#### BLOG : [TISTORY:house:] https://gitseok.tistory.com/
 
 
 <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
